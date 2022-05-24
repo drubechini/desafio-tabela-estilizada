@@ -1,0 +1,27 @@
+p{
+    margin-left: 20px;
+}
+
+.tabela-margem{
+    margin: 20px;
+}
+
+.cabecalho-moda{
+   background-color:  #BB86FC;
+ }
+
+.cabecalho-casa{
+    background-color: #00C4B4;
+}
+
+.valores-tabelas{
+    background-color: #424250;
+}
+
+.fonte-tabelas{
+    color: #ffffff;
+ }
+
+.espacamento-entre-valores{
+    padding: 10px;
+}
